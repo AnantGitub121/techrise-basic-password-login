@@ -77,14 +77,17 @@
     <script>
         // Hardcoded username-password pairs
         const users = {
-            "USER1": "PASSWORD1",
-            "USER2": "PASSWORD2",
-            "USER3": "PASSWORD3",
-            add more if you like.
+            "31apandey": "techrise",
+            "31eduggan": "techrise",
+            "admin@NASA": "admin@techrise",
+            "31tkeman":"tecrise",
+            "31kkor":"techrise",
+            "31lrakoto":"techrise",
+            "31jchang":"techrise"
         };
 
         // Redirect URL
-        const redirectURL = "add the URL of the place this website will go to.";
+        const redirectURL = "https://docs.google.com/presentation/d/12zvkhPVFXWTztvEFHPYQJvk21R8G38RlALwqS3ZSiOk/edit#slide=id.p";
 
         function login() {
             const username = document.getElementById('username').value;
@@ -103,4 +106,3 @@
     </script>
 </body>
 </html>
-
