@@ -1,6 +1,4 @@
-# techrise-basic-password-login
-basic password and login i coded that redirects to any website/place of your choice.
-code is below:
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
